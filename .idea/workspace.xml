@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4f60cd3-377a-4a53-b07c-5b8af0bfa73f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder.xcodeproj/project.xcworkspace/xcuserdata/rey1mx.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder.xcodeproj/project.xcworkspace/xcuserdata/rey1mx.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/build/exe/main/debug/ios_x64/MeteoriteFinder.kexe" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/build/exe/main/debug/ios_x64/MeteoriteFinder.kexe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeteoriteFinder/build/exe/main/debug/ios_x64/MeteoriteFinder.kexe.dSYM/Contents/Resources/DWARF/MeteoriteFinder.kexe" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/build/exe/main/debug/ios_x64/MeteoriteFinder.kexe.dSYM/Contents/Resources/DWARF/MeteoriteFinder.kexe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MeteoriteFinder/src/main/kotlin/MeteoriteMapViewController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MeteoriteFinder/src/main/kotlin/MeteoriteMapViewController.kt" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/Library/Caches/AppCode2019.1/DerivedData/MeteoriteFinder-ezvhbkvaychkzdggffhkpgikmokz/Build/Intermediates.noindex/" />
@@ -19,10 +28,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MeteoriteFinder/src/main/kotlin/MeteoriteMapViewController.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="518">
+              <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
               <folding>
-                <element signature="e#0#204#0" expanded="true" />
+                <element signature="e#0#260#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,8 +102,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Cidr.FilesView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,6 +112,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,31 +149,32 @@
       <updated>1558891279651</updated>
       <workItem from="1558891281681" duration="132000" />
       <workItem from="1558891455701" duration="25000" />
-      <workItem from="1558891618558" duration="158000" />
+      <workItem from="1558891618558" duration="415000" />
+      <workItem from="1558892926705" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315000" />
+    <option name="totallyTimeSpent" value="890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1351" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25030527" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31779984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2513369" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -195,10 +206,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MeteoriteFinder/src/main/kotlin/MeteoriteMapViewController.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="518">
+          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
           <folding>
-            <element signature="e#0#204#0" expanded="true" />
+            <element signature="e#0#260#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -16,12 +16,15 @@ class MeteoriteMapViewController : UIViewController, MKMapViewDelegateProtocol {
     @ObjCOutlet
     lateinit var mapView: MKMapView
 
+    val lat = 38.8935754
+    val lon = -77.0847873
+
 
     override fun viewDidLoad() {
         super.viewDidLoad()
 
-        val center = CLLocationCoordinate2DMake(38.8935754, -77.0847873)
-        val span = MKCoordinateSpanMake(0.7, 0.7)
+        val center = CLLocationCoordinate2DMake(lat, lon)
+        val span = MKCoordinateSpanMake(0.005, 0.005)
         val region = MKCoordinateRegionMake(center, span)
 
         with(mapView){
@@ -34,7 +37,7 @@ class MeteoriteMapViewController : UIViewController, MKMapViewDelegateProtocol {
 
     fun createAnnotation() {
         val annotation = MKPointAnnotation().apply {
-            setCoordinate(CLLocationCoordinate2DMake(38.8935754, -77.0847873))
+            setCoordinate(CLLocationCoordinate2DMake(lat, lon))
             setTitle("My mock meteorite")
             setSubtitle("I'm falling........")
         }
